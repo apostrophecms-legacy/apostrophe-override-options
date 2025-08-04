@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 This module allows configurable overrides of the `getOption` method and Nunjucks helper of Apostrophe modules, based on:
 
 * Editable fields of the widget being rendered, if we're rendering a widget, *or*
